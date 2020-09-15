@@ -1,72 +1,66 @@
+url: https://www.101.camp/
+baseurl: /
+#baseurl: /agency-jekyll-theme/
+
 # Site settings
 title: 蟒营®101.camp
 email: we@101.so
-url: https://github.com/jeromelachaud/freelancer-theme
-description: "Write an awesome description for your new site here. You can edit this line in _config.yml. It will appear in your document head meta (for Google search results) and in your feed.xml site description."
-keywords: "your keywords, separated by commas"
-skills: "网站建设中:课程先访问 py.101.camp - Graphic Artist - User Experience Designer"
-meta_author: Yaz Studio 
-
-# Google webmaster tools
-google_verify:
-
-# https://ssl.bing.com/webmaster/configure/verify/ownership Option 2 content= goes here
-bing_verify:
+description: "蟒营®101.camp 作为永久性学习型社区运营, 通过开源网络课程框架, 持续孵化各种实用技能网络课程, 通过课程吸引学习者, 聚集学习者相互影响, 持续产生新课程/作品/社区; Operate as a permanent learning community, continue to incubate various online courses practical skill, publish open source network course framework, attract learners through courses, gather learners to influence each other, and continue to produce new courses/works/communities..."
 
 
-# Contact form:
-# - static : pass through formspree.io to validate email sending
-# - disqus : replace contact form by disqus thread
-# - comment the line below if you want to stick with the default PHP contact form
-contact: static
+# Team names, titles and social links
+people:
+- name: Zoom.Quiet
+  pic: 1
+  position: Lead Evangelist
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: stack-overflow
+      url: #
 
-# If you use disqus you need disqus shortname
-# https://help.disqus.com/customer/portal/articles/466208
-#disqus_shortname: myshortname
+- name: YiXuan.li
+  pic: 2
+  position: Lead Artist
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: linkedin
+      url: #
 
-# Color settings (hex-codes without the leading hash-tag)
-color:
-  primary: 18bc9c #80B3FF
-  primary-rgb: "24,288,156" #"128,179,255"
-  secondary: 2c3e50 #FD6E8A
-  secondary-dark: 233140 #A2122F
-
-# Footer settings
-footer:
-  copyright: Dr. Henry Jekyll
-  location: Location
-  social: Around the Web
-  credits: Credits
+- name: Azeril
+  pic: 3
+  position: Lead Marketer
+  social:
+    - title: twitter
+      url: #
+    - title: facebook
+      url: #
+    - title: google-plus
+      url: #
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
   - title: twitter
-    url: http://twitter.com/jekyllrb
+    url: http://twitter.com/zoomq
   - title: facebook
-    url:
+    url: https://www.facebook.com/zoom.quiet/
   - title: stack-overflow
     url: http://stackoverflow.com/questions/tagged/jekyll
-  - title: bitbucket
-    url: http://bitbucket.org/jekyll
+  - title: gitlab
+    url: http://gitlab.com/101camp
   - title: github
-    url: http://github.com/jekyll
+    url: http://github.com/101camp
 
 # Postal address (add as many lines as necessary)
 address:
-  - line: 3481 Melrose Place
-  - line: Beverly Hills, CA 90210
-
-# Credits content
-credits: 'Freelancer is a free to use, open source Bootstrap theme created by <a href="http://startbootstrap.com">Start Bootstrap</a>.'
+  - line: 广东省,珠海市, 香洲区
+  - line: 前岛环路323号, 四号楼
 
 # Build settings
 markdown: kramdown
 permalink: pretty
-
-#for posts
-defaults:
-  - scope:
-      path: ""
-      type: "posts"
-    values:
-      permalink: ""
