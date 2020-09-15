@@ -7,16 +7,14 @@ title: 蟒营®101.camp
 email: we@101.so
 description: "蟒营®101.camp 作为永久性学习型社区运营, 通过开源网络课程框架, 持续孵化各种实用技能网络课程, 通过课程吸引学习者, 聚集学习者相互影响, 持续产生新课程/作品/社区; Operate as a permanent learning community, continue to incubate various online courses practical skill, publish open source network course framework, attract learners through courses, gather learners to influence each other, and continue to produce new courses/works/communities..."
 
-tpl:
-- header:
-  - services: 服务
-    portfolio: 作品
-    about: 有关
-    team: 团队
-    contact: 联系
-    intro: 欢迎访问蟒营®Yaz工作室
-    hero: 坚持为人民服务 
-    tellmore: 详细
+header_services: 服务
+header_portfolio: 作品
+header_about: 有关
+header_team: 团队
+header_contact: 联系
+header_intro: 欢迎访问蟒营®Yaz工作室
+header_hero: 坚持为人民服务 
+header_tellmore: 详细
 
 # Team names, titles and social links
 people:
