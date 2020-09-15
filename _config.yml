@@ -15,7 +15,7 @@ header_team: 团队
 header_contact: 联系
 header_intro: 欢迎访问蟒营®Yaz工作室
 header_hero: 坚持为人民服务 
-header_tellmore: 详细
+header_tellmore: TELL ME MORE
 # info. in services
 srv_heading: Services
 srv_subheading: Lorem ipsum dolor sit amet consectetur.
@@ -33,9 +33,9 @@ services:
 
 # Team names, titles and social links
 people:
-- name: Zoom.Quiet
+- name: YiXuan.li
   pic: 1
-  position: Lead Evangelist
+  position: Lead Artist
   social:
     - title: twitter
       url: #
@@ -44,9 +44,9 @@ people:
     - title: stack-overflow
       url: #
 
-- name: YiXuan.li
+- name: Azeril
   pic: 2
-  position: Lead Artist
+  position: Lead Marketer
   social:
     - title: twitter
       url: #
@@ -55,9 +55,9 @@ people:
     - title: linkedin
       url: #
 
-- name: Azeril
+- name: Zoom.Quiet
   pic: 3
-  position: Lead Marketer
+  position: Lead Evangelist
   social:
     - title: twitter
       url: #
