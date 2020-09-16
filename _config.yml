@@ -17,19 +17,23 @@ header_intro: 蟒营® Yaz工作室
 header_hero: 坚持为人民服务 
 header_tellmore: TELL ME MORE
 
+#
+# base:
+#   Font Awesome Icons
+#   https://fontawesome.com/v3.2.1/icons/
 # info. in services
 srv_heading: 服务
 srv_subheading: Lorem ipsum dolor sit amet consectetur.
 services:
-  - title: E-Commerce
+  - title: 在线教育
     txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    icon: fa-shopping-cart
-  - title: Responsive Design
+    icon: fa-book
+  - title: 媒体制作
     txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    icon: fa-laptop
-  - title: Web Security
+    icon: fa-film
+  - title: 社区构建
     txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
-    icon: fa-kanban
+    icon: fa-group
 
 # info. in services
 post_heading: Portfolio
@@ -107,9 +111,9 @@ people:
     - title: twitter
       url: https://twitter.com/zoomq
     - title: linkedin
-      url: https://www.linkedin.com/in/zoomquiet/
-    - title: douban
-      url: https://www.douban.com/people/zoomq/
+      url: https://www.linkedin.com/in/zoomquiet
+    - title: weibo
+      url: https://weibo.com/zoomquiet
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
@@ -119,7 +123,7 @@ social:
     url: https://www.facebook.com/zoom.quiet/
   - title: linkedin
     url: https://www.linkedin.com/in/zoomquiet/
-  - title: gitlab
+  - title: github-alt
     url: http://gitlab.com/101camp
   - title: github
     url: http://github.com/101camp
