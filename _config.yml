@@ -43,18 +43,22 @@ abouts:
     subheading: Our Humble Beginnings
     txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
     icon: img/about/1.jpg
+    layout: right
   - title: March 2011
     subheading: An Agency is Born
     txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
     icon: img/about/2.jpg
+    layout: left
   - title: December 2012
     subheading: Transition to Full Service
     txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
     icon: img/about/3.jpg
+    layout: right
   - title: July 2014
     subheading: Phase Two Expansion
     txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
     icon: img/about/4.jpg
+    layout: left
 
 
 

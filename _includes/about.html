@@ -12,7 +12,13 @@
                     <ul class="timeline">
 
             {% for abt in site.abouts %}
-            <li>
+
+            {% if abt.layout == 'left' %}
+                <li>
+            {% else %}
+                <li class="timeline-inverted">
+            {% endif %}
+
                 <div class="timeline-image">
                     <img class="img-circle img-responsive" src="{{ abt.icon }}" alt="">
                 </div>
