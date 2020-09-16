@@ -41,26 +41,26 @@ post_subheading: 索引主要作品类别, 更多具体服务项目, 欢迎留�
 
 # info. in about
 abt_heading: 有关故事
-abt_subheading: 其实自称`Yaz曲艺团`, 真正云团队, 以一个核心愿景粘合起来...
+abt_subheading: 其实自称/Yaz曲艺团, 真正云团队, 以一个核心愿景粘合起来...
 abouts:
   - title: 2018-12-25 ~
     subheading: 蟒营®101.camp 再次出发
-    txt: 还是在老学员提议下, 大妈 发布蟒营®开源网络课程框架, 并重构原先 `Python入门班` 变成 `蟒营®编程思维提高班 Python版` 开始独立发布/运营; 围绕这一网络课程, Yaz 衍生出一系列服务, 未来还将继续和学员们一起探索.
+    txt: ...
     icon: img/about/1.jpg
     layout: right
   - title: 2017-4-1
     subheading: 自怼圈发布
-    txt: 再次设计了不完全体"Python入门班"并4期后被关闭, 大妈和班长/YiXuan.li 营造的氛围却也吸引不少老学员, 大家倡议下, 利用`小密圈`这一收费社群平台, 创建了 DebugUself ~ 自怼圈/长期自学社区; Yaz曲艺团初见风格, 在各种渠道中引发了无数梗.
+    txt: ...
     icon: img/about/2.jpg
     layout: left
   - title: 2014-10-1
     subheading: 在书友群遇见...
-    txt: 那时 YiXuan.li 刚刚回国, 还没有成为班长; Az 也刚刚入职, 还没能成为颜值担当; 大妈因为 PyCon中国 大会的筹备意外进入一个号称必须有博士或是硕士双学位才能进入的微信群;开始长达两年多的群口相声实践;
+    txt: ...
     icon: img/about/3.jpg
     layout: right
-  - title: 2006.4.20
+  - title: 2006 4 20
     subheading: "大妈"诞生
-    txt: 在 CPyUG 社区邮件列表中, 有关 woodpacker,.org.cn 使用吐糟中, ZoomQuiet 随口回复:'...有一群极认真的大妈在维护...'结果其它社区积极分子无人承认,只有大妈认领了这一称号...
+    txt: ...
     icon: img/about/4.jpg
     layout: left
 
