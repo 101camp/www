@@ -80,6 +80,9 @@ clients:
   - url: "#"
     icon: img/logos/creative-market.jpg
 
+
+
+
 # Team names, titles and social links
 people:
 - name: YiXuan.li
@@ -129,6 +132,11 @@ social:
     url: http://github.com/101camp
   - title: youtube
     url: https://www.youtube.com/channel/UCuM48gcYiXK0mVpFkKSSLcg
+
+# info. in contact
+contact_head: 联系我们
+contact_subheading: 使用 GitHub 帐号就可以自由发布的公开点评; 也可以直接邮件给 askdama@googlegroups.com .
+
 
 # Postal address (add as many lines as necessary)
 address:
