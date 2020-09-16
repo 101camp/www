@@ -58,8 +58,8 @@ abouts:
     txt: ...
     icon: img/about/3.jpg
     layout: right
-  - title: 2006 4 20
-    subheading: "大妈"诞生
+  - title: 2006
+    subheading: 大妈 诞生
     txt: ...
     icon: img/about/4.jpg
     layout: left
