@@ -16,6 +16,7 @@ header_contact: 联系
 header_intro: 欢迎访问蟒营®Yaz工作室
 header_hero: 坚持为人民服务 
 header_tellmore: TELL ME MORE
+
 # info. in services
 srv_heading: Services
 srv_subheading: Lorem ipsum dolor sit amet consectetur.
@@ -30,12 +31,15 @@ services:
     txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Minima maxime quam architecto quo inventore harum ex magni, dicta impedit.
     icon: fa-lock
 
+# info. in services
+post_heading: Portfolio
+post_subheading: Portfolio
 
 # Team names, titles and social links
 people:
 - name: YiXuan.li
   pic: 1
-  position: Lead Artist
+  position: 艺术总监
   social:
     - title: twitter
       url: #
@@ -46,7 +50,7 @@ people:
 
 - name: Azeril
   pic: 2
-  position: Lead Marketer
+  position: 媒体总监
   social:
     - title: twitter
       url: #
@@ -57,14 +61,14 @@ people:
 
 - name: Zoom.Quiet
   pic: 3
-  position: Lead Evangelist
+  position: 首席布首官
   social:
     - title: twitter
-      url: #
-    - title: facebook
-      url: #
-    - title: google-plus
-      url: #
+      url: https://twitter.com/zoomq
+    - title: linkedin
+      url: https://www.linkedin.com/in/zoomquiet/
+    - title: douban
+      url: https://www.douban.com/people/zoomq/
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
