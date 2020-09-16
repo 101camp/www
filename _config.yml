@@ -35,6 +35,29 @@ services:
 post_heading: Portfolio
 post_subheading: Portfolio
 
+# info. in about
+abt_heading: About
+abt_subheading: Lorem ipsum dolor sit amet consectetur.
+abouts:
+  - title: 2009-2011
+    subheading: Our Humble Beginnings
+    txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    icon: img/about/1.jpg
+  - title: March 2011
+    subheading: An Agency is Born
+    txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    icon: img/about/2.jpg
+  - title: December 2012
+    subheading: Transition to Full Service
+    txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    icon: img/about/3.jpg
+  - title: July 2014
+    subheading: Phase Two Expansion
+    txt: Lorem ipsum dolor sit amet, consectetur adipisicing elit. Sunt ut voluptatum eius sapiente, totam reiciendis temporibus qui quibusdam, recusandae sit vero unde, sed, incidunt et ea quo dolore laudantium consectetur!
+    icon: img/about/4.jpg
+
+
+
 # Team names, titles and social links
 people:
 - name: YiXuan.li

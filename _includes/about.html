@@ -10,6 +10,27 @@
             <div class="row">
                 <div class="col-lg-12">
                     <ul class="timeline">
+
+            {% for abt in site.abouts %}
+            <li>
+                <div class="timeline-image">
+                    <img class="img-circle img-responsive" src="{{ abt.icon }}" alt="">
+                </div>
+                <div class="timeline-panel">
+                    <div class="timeline-heading">
+                        <h4>{{ abt.title }}</h4>
+                        <h4 class="subheading">{{ abt.subheading }}</h4>
+                    </div>
+                    <div class="timeline-body">
+                        <p class="text-muted">{{ abt.txt }}</p>
+                    </div>
+                </div>
+            </li>
+
+            {% endfor %}
+
+<!--
+
                         <li>
                             <div class="timeline-image">
                                 <img class="img-circle img-responsive" src="img/about/1.jpg" alt="">
@@ -66,11 +87,14 @@
                                 </div>
                             </div>
                         </li>
+
+-->
+
                         <li class="timeline-inverted">
                             <div class="timeline-image">
                                 <h4>Be Part
                                     <br>Of Our
-                                    <br>Story!</h4>
+                                    <br>Story ;-)</h4>
                             </div>
                         </li>
                     </ul>
