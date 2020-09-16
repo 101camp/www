@@ -23,7 +23,7 @@ header_tellmore: TELL ME MORE
 #   https://fontawesome.com/v3.2.1/icons/
 # info. in services
 srv_heading: 服务
-srv_subheading: Lorem ipsum dolor sit amet consectetur.
+srv_subheading: 乐于提供的几类服务, 付费/免费都有, 具体看对应真实需求了.
 services:
   - title: 在线教育
     txt: 蟒营®开源网络课程框架, 经12年迭代, 能帮助学员重建自学节奏, 对任何实用技能都可以基于网络资源自学获得, 再也不用上任何网课;
@@ -66,8 +66,8 @@ abouts:
 
 # info. in about
 team_heading: Our Amazing Team
-team_subheading: Lorem ipsum dolor sit amet consectetur.
-team_explain:  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
+team_subheading: 凝聚自青萍之未, 发端从社群诗梗, 相望在网络之中
+team_explain: 完全云团队, 大家各自有自己的事业/生活/城市/社团/...但是,又通过 Yaz 之名, 稳定输出各种靠谱服务; 这应该算是 “一人公司” 之上的集群了吧. 
 
 # info. in clients
 clients:
