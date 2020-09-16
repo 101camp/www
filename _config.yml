@@ -60,7 +60,21 @@ abouts:
     icon: img/about/4.jpg
     layout: left
 
+# info. in about
+team_heading: Our Amazing Team
+team_subheading: Lorem ipsum dolor sit amet consectetur.
+team_explain:  Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.
 
+# info. in clients
+clients:
+  - url: "#"
+    icon: img/logos/envato.jpg
+  - url: "#"
+    icon: img/logos/designmodo.jpg
+  - url: "#"
+    icon: img/logos/themeforest.jpg
+  - url: "#"
+    icon: img/logos/creative-market.jpg
 
 # Team names, titles and social links
 people:
@@ -109,6 +123,8 @@ social:
     url: http://gitlab.com/101camp
   - title: github
     url: http://github.com/101camp
+  - title: youtube
+    url: https://www.youtube.com/channel/UCuM48gcYiXK0mVpFkKSSLcg
 
 # Postal address (add as many lines as necessary)
 address:
