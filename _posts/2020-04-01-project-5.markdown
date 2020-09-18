@@ -4,7 +4,7 @@ subtitle: 蟒营®服务
 layout: default
 modal-id: 5
 date: 2020-04-01
-img: yazstudio.jpg
+img: yazstudio.png
 thumbnail: yazstudio-thumbnail.jpg
 alt: image-alt
 project-date: 提前预约

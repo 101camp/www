@@ -4,8 +4,8 @@ subtitle: 播客节目
 layout: default
 modal-id: 6
 date: 2020-02-14
-img: fm101camp.png
-thumbnail: fm101camp-thumbnail.png
+img: fm101camp.jpg
+thumbnail: fm101camp-thumbnail.jpg
 alt: image-alt
 project-date: 不定期
 client: 任何有具体想吐糟的好人
