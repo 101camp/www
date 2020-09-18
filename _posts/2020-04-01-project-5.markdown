@@ -1,0 +1,16 @@
+---
+title: 节目制作
+subtitle: 蟒营®服务
+layout: default
+modal-id: 5
+date: 2020-04-01
+img: startup-framework.png
+thumbnail: startup-framework-thumbnail.png
+alt: image-alt
+project-date: 提前预约
+client: 有具体播客/短视频类媒体节目制作需求
+category: 制作外包
+uri: #
+description: 以 AE 为核心聚合周边各种软件/硬件, 能快速协助完成节目从设计/起稿/录制/后期/发布全周期任务; 因为兴趣驱动, 价格并不专业, 欢迎一起来拥有 Vlog 玩法.
+
+---

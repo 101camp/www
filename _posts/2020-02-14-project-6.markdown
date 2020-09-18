@@ -1,0 +1,17 @@
+---
+title: 蟒营®电台
+subtitle: 播客节目
+layout: default
+modal-id: 6
+date: 2020-02-14
+img: roundicons.png
+thumbnail: roundicons-thumbnail.png
+alt: image-alt
+project-date: 不定期
+client: 任何有具体想吐糟的好人
+category: 云聊天
+uri: https://fm.101.camp/
+description: 不吐糟会死星人聚集之处; 节目主要内容 ~ 钩陈各种值得探讨的事儿,以大妈积累录音为基础, 或是不定期邀请网友进行主题讨论
+
+
+---

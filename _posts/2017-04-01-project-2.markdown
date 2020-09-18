@@ -1,0 +1,16 @@
+---
+title: 自怼圈
+subtitle: 蟒营®社群
+layout: default
+modal-id: 1
+date: 2017-04-01
+img: dreams.png
+thumbnail: dreams-thumbnail.png
+alt: image-alt
+project-date: 每年继费
+client: 蟒营®课程学员或长期自学者
+category: 在线社区
+uri: https://du.101.camp/
+description: 以 GiHub 付费仓库为核心, 以定期在线会议为节奏, 持续一年的作品为导向自学型社区; 积累有丰富的个人作品案例, 在编程/写作/社群/... 各种方向上都有成员项目分支; 随时加入长期积累/分享, 相互促进.
+
+---
