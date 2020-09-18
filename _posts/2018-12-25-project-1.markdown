@@ -4,8 +4,8 @@ subtitle: 蟒营®在线课程
 layout: default
 modal-id: 1
 date: 2018-12-25
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: py101camp.jpg
+thumbnail: py101camp-thumbnail.jpg
 alt: image-alt
 project-date: 每期6周
 client: 非计算机专业想掌握编程的学习者

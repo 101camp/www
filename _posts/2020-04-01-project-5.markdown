@@ -4,8 +4,8 @@ subtitle: 蟒营®服务
 layout: default
 modal-id: 5
 date: 2020-04-01
-img: startup-framework.png
-thumbnail: startup-framework-thumbnail.png
+img: yazstudio.jpg
+thumbnail: yazstudio-thumbnail.jpg
 alt: image-alt
 project-date: 提前预约
 client: 有具体播客/短视频类媒体节目制作需求

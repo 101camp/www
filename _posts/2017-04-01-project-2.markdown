@@ -4,8 +4,8 @@ subtitle: 蟒营®社群
 layout: default
 modal-id: 2
 date: 2017-04-01
-img: dreams.png
-thumbnail: dreams-thumbnail.png
+img: du101camp.png
+thumbnail: du101camp-thumbnail.png
 alt: image-alt
 project-date: 每年继费
 client: 蟒营®课程学员或长期自学者

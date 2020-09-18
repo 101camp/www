@@ -4,8 +4,8 @@ subtitle: 蟒营®在线课程
 layout: default
 modal-id: 3
 date: 2020-06-26
-img: golden.png
-thumbnail: golden-thumbnail.png
+img: mu101camp.jpg
+thumbnail: mu101camp-thumbnail.jpg
 alt: image-alt
 project-date: 为期八周
 client: 喜欢音乐想为自己内心创作的爱好者
