@@ -1,15 +1,16 @@
 ---
-title: Dreams
-subtitle: Website Design
+title: 编程思维提高班
+subtitle: 蟒营®在线课程
 layout: default
 modal-id: 1
-date: 2014-07-18
+date: 2018-12-25
 img: dreams.png
 thumbnail: dreams-thumbnail.png
 alt: image-alt
-project-date: April 2014
-client: Start Bootstrap
-category: Web Development
-description: Lorem ipsum dolor sit amet, usu cu alterum nominavi lobortis. At duo novum diceret. Tantas apeirian vix et, usu sanctus postulant inciderint ut, populo diceret necessitatibus in vim. Cu eum dicam feugiat noluisse.
+project-date: 每期6周
+client: 非计算机专业想掌握编程的学习者
+category: 在线课程
+uri: https://py.101.camp/
+description: 通过尽可能真实的软件工程环境,通过远程协作过程, 在具体编程任务驱动下, 通过一系列精心设计的可迭代开发任务, 快速完成编程思维实战化练习, 并结成开发团队,完成自己想开发的软件作品. 及时在问题发生现场提供引导, 并承诺永久答疑服务.
 
 ---
