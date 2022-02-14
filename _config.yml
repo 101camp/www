@@ -93,12 +93,12 @@ people:
   pic: 1
   position: 艺术总监
   social:
-    - title: twitter
-      url: #
+    - title: 豆瓣
+      url: https://www.douban.com/people/woaixiaoyao5402
     - title: facebook
-      url: #
-    - title: stack-overflow
-      url: #
+      url: https://www.facebook.com/liyixuan5402
+    - title: linkedin
+      url: https://www.linkedin.com/in/liyixuan5402
 
 - name: Azeril
   pic: 2
@@ -108,19 +108,19 @@ people:
       url: #
     - title: facebook
       url: #
-    - title: linkedin
-      url: #
+    - title: 豆瓣
+      url: https://www.douban.com/people/Azeril
 
 - name: Zoom.Quiet
   pic: 3
-  position: 首席布首官
+  position: 首席布道官
   social:
     - title: twitter
       url: https://twitter.com/zoomq
-    - title: linkedin
-      url: https://www.linkedin.com/in/zoomquiet
-    - title: weibo
-      url: https://weibo.com/zoomquiet
+    - title: github
+      url: https://github.com/ZoomQuiet
+    - title: 官网
+      url: https://zoomquiet.io
 
 # Social networks usernames (many more available: google-plus, flickr, dribbble, pinterest, instagram, tumblr, linkedin, etc.)
 social:
