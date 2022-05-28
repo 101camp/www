@@ -47,6 +47,16 @@ mod_close: 关闭
 abt_heading: 有关故事
 abt_subheading: 其实自称/Yaz曲艺团, 真正云团队, 以一个核心愿景粘合起来...
 abouts:
+  - title: 2022.4.1 ~
+    subheading: 蟒营®+QPython
+    txt: 早在10年前就用过 QPython, 现在有机会和蟒营®结合, 开展一系列探索, 毕竟相对其它开发板, Android 手机更加完备以及成熟, 如果可以自如在其上编程, 嫑太美好..为此值得推动一切力量 ;-)
+    icon: img/about/1.jpg
+    layout: right
+  - title: 2020.4.1 ~
+    subheading: 蟒营®101.camp 完成15期课程
+    txt: 疫情原因大妈再次被创业, 忙起来后, 无法支撑定期开班, 于是转化为预约触发, 满42人开班, 结果一等就是一年, 效果和以往类似, 但是, 人数不够氛围就没那么欢快了...
+    icon: img/about/4.jpg
+    layout: left
   - title: 2018.12.25 ~
     subheading: 蟒营®101.camp 再次出发
     txt: 还是在老学员提议下, 大妈 发布蟒营®开源网络课程框架, 并重构原／Python入门班 变成 “蟒营®编程思维提高班 Python版” 开始独立发布/运营; 围绕这一网络课程, Yaz 衍生出一系列服务, 未来还将继续和学员们一起探索.
