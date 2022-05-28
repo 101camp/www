@@ -55,17 +55,17 @@ abouts:
   - title: 2020.4.1 ~
     subheading: 蟒营®101.camp 完成15期课程
     txt: 疫情原因大妈再次被创业, 忙起来后, 无法支撑定期开班, 于是转化为预约触发, 满42人开班, 结果一等就是一年, 效果和以往类似, 但是, 人数不够氛围就没那么欢快了...
-    icon: img/about/cvbox-5.png
+    icon: img/about/cvbox-dama-l3.png
     layout: left
   - title: 2018.12.25 ~
     subheading: 蟒营®101.camp 再次出发
     txt: 还是在老学员提议下, 大妈 发布蟒营®开源网络课程框架, 并重构原／Python入门班 变成 “蟒营®编程思维提高班 Python版” 开始独立发布/运营; 围绕这一网络课程, Yaz 衍生出一系列服务, 未来还将继续和学员们一起探索.
-    icon: img/about/cvbox-4.png
+    icon: img/about/cvbox-3.png
     layout: right
   - title: 2017.4.1
     subheading: 自怼圈发布
     txt: 再次设计了不完全体“Python入门班”主持/顾问了4期后被关闭, 大妈和班长/YiXuan.li 营造的氛围却也吸引不少老学员, 大家倡议下, 利用“小密圈”这一收费社群平台, 创建了 DebugUself ~ 自怼圈/长期自学社区; Yaz曲艺团初见风格, 在各种渠道中引发了无数梗.
-    icon: img/about/cvbox-3.png
+    icon: img/about/cvbox-dama-l2.png
     layout: left
   - title: 2014.10.1
     subheading: 在书友群遇见...
@@ -75,7 +75,7 @@ abouts:
   - title: 2006.4.20
     subheading: “大妈”诞生
     txt: 在 CPyUG 社区邮件列表中, 有关 woodpacker,.org.cn 使用吐糟中, ZoomQuiet 随口回复:“...有一群极认真的大妈在维护...”;结果其它社区积极分子无人承认,只有大妈认领了这一称号...
-    icon: img/about/cvbox-1.png
+    icon: img/about/cvbox-dama-l1.png
     layout: left
 
 # info. in about
